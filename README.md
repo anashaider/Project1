@@ -4,5 +4,5 @@
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
 ```
-You can call out code or a command within a sentence with single backticks.
+>You can call out code or a command within a sentence with single backticks.
 ```
