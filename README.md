@@ -18,4 +18,4 @@
 >13.	Else
 >14.	Print” you have input the same numbers”
 15.	END
-Hello Good morning
+Hello Good morning!
